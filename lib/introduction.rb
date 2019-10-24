@@ -8,6 +8,11 @@ def introduction(name)
  puts "Hi, my name is #{name}."
 end
 
+def introduction_with_language(name,language)
+  p "Hi my name is #{name} and im learning to program in #{language}."
+end
+
+
 
 
 
